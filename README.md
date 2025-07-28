@@ -3,4 +3,5 @@ have solved 10 diffrent problems each of list,string and numbers to practice lea
 while solving these problems i have learned how to reverse a string,check if string is palindrome,count vowels and nouns of string,
 check if two strings are anagrams,find non repeating char in string,learned how to convert a string into dict,how to sort a string,how to convert list into string,how to URLify a string.
 also for list how to find max and min elemment of a list,how to reverse manually and by inbuilt mathod,check if 2 arrays are equal,how to rotate an array.
-for number i have learned 
+for number i have learned how to find prime number,even / odd,if a num is palindrome,if num is armstrong number,count digit of num,
+i have also written comments for every small details for understanding whats actually happening in the code for future refrence.
